@@ -1,2 +1,2 @@
 # Python-LinearRegression-Data-Analysis
- Linear Regression with Python on Automotive Data
+Performed Linear Regression Analysis on Automotive Dataset for Weight vs Volume using Python with numpy, pandas, matplotlib, and sklearn. 
